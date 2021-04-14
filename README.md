@@ -1,2 +1,2 @@
 # modo
-R&amp;D on modular asciidoc
+O.S. Docs R&D
