@@ -78,3 +78,6 @@ Unless stated different in the project, the code for of conduct for Beautiful Pa
 https://www.contributor-covenant.org/version/2/0/code_of_conduct/
 
 Code of conduct is written into a CODE_OF_CONDUCT.md file.
+
+## Beautiful Patterns Internships
+Beautiful Patterns will offer Open Source Internships to well qualified applicants.

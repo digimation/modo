@@ -1,4 +1,5 @@
-![GitHub Logo](images/logo2.png)
+# Contributing to Beautiful Patterns
+
 ## Why contribute to Beautiful Patterns?
 
 Contributing to Beautiful Patterns open source can be a rewarding way to learn, teach, and build experience in just about any skill you can imagine.
