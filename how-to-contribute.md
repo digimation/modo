@@ -1,4 +1,4 @@
-![GitHub Logo](../images/logo2.png)
+![GitHub Logo](images/logo2.png)
 ## Why contribute to Beautiful Patterns?
 
 Contributing to Beautiful Patterns open source can be a rewarding way to learn, teach, and build experience in just about any skill you can imagine.
@@ -43,7 +43,7 @@ Not to worry! There are all sorts of ways to get involved with an open source pr
 
 A common misconception about contributing to open source is that you need to contribute code. In fact, it's often the other parts of a project that are most neglected or overlooked. You'll do the project a _huge_ favor by offering to pitch in with these types of contributions!
 
-![GitHub Logo](../images/laptop_woman.jpg)
+![GitHub Logo](images/laptop_woman.jpg)
 
 ### Do you like planning events?
 
@@ -51,7 +51,7 @@ A common misconception about contributing to open source is that you need to con
 * Organize the project's conference (if they have one)
 * Help community members find the right conferences and submit proposals for speaking
 
-![GitHub Logo](../images/events.jpg)
+![GitHub Logo](images/events.jpg)
 
 ### Do you like to design?
 
@@ -60,7 +60,7 @@ A common misconception about contributing to open source is that you need to con
 * Put together a style guide to help the project have a consistent visual design
 * Create art for t-shirts or a new logo, [like hapi.js's contributors did](https://github.com/hapijs/contrib/issues/68)
 
-![GitHub Logo](../images/design.jpg)
+![GitHub Logo](images/design.jpg)
 
 ### Do you like to write?
 
@@ -70,7 +70,7 @@ A common misconception about contributing to open source is that you need to con
 * Write tutorials for the project, [like PyPA's contributors did](https://github.com/pypa/python-packaging-user-guide/issues/194)
 * Write a translation for the project's documentation
 
-![GitHub Logo](../images/writing.jpg)
+![GitHub Logo](images/writing.jpg)
 
 ### Do you like organizing?
 
@@ -78,7 +78,7 @@ A common misconception about contributing to open source is that you need to con
 * Go through open issues and suggest closing old ones, [like @nzakas did for ESLint](https://github.com/eslint/eslint/issues/6765)
 * Ask clarifying questions on recently opened issues to move the discussion forward
 
-![GitHub Logo](../images/organizing.jpg)
+![GitHub Logo](images/organizing.jpg)
 
 ### Do you like to code?
 
@@ -87,7 +87,7 @@ A common misconception about contributing to open source is that you need to con
 * Automate project setup
 * Improve tooling and testing
 
-![GitHub Logo](../images/coding.jpg)
+![GitHub Logo](images/coding.jpg)
 
 ### Do you like helping people?
 
@@ -189,7 +189,7 @@ Before you open an issue or pull request, check the project's contributing docs 
 
 If you want to make a substantial contribution, open an issue to ask before working on it. It's helpful to watch the project for a while (on GitHub, [you can click "Watch"](https://help.github.com/articles/watching-repositories/) to be notified of all conversations), and get to know community members, before doing work that might not get accepted.
 
-![GitHub Logo](../images/context.jpg)
+![GitHub Logo](images/context.jpg)
 
 <aside markdown="1" class="pquote">
   You'll learn <em>a lot</em> from taking a single project you actively use, "watching" it on GitHub and reading every issue and PR.
