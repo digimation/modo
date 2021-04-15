@@ -1,5 +1,4 @@
-# modo
-O.S. Docs R&D
+# Open Source Docs R&D
 
 ## Core documents
 * [CODE_OF_CONDUCT.md](CODE_OF_CONDUCT.md)
