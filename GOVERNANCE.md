@@ -30,6 +30,7 @@ Some contributors will already be engaging with the project as users, but will a
 * reporting bugs
 * identifying requirements
 * supplying graphics and web design
+* marketing
 * programming
 * assisting with project infrastructure
 * writing documentation
@@ -49,6 +50,16 @@ Users should be encouraged to participate in the life of the project and the com
 * providing financial support
 
 Users who continue to engage with the project and its community will often find themselves becoming more and more involved. Such users may then go on to become contributors, as described above.
+
+#### Leadership Roles
+Beautiful Patterns will use a broad definition of roles to encourage more forms of participation. Leadership roles will be used to formally recognize people who have made outstanding contributions to the project, regardless of their technical skill.
+
+Leadership Roles:
+* Open Source Director of Development
+* Open Source Director of Production
+* Open Source Director of Marketing
+* Open Source Director of Human Resources
+* Open Source Director of Internships
 
 #### Support
 
