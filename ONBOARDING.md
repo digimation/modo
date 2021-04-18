@@ -19,7 +19,6 @@ onboarding session.
   * [project goals & values](#project-goals--values)
   * [managing the issue tracker](#managing-the-issue-tracker)
   * [reviewing PRs](#reviewing-prs)
-  * [landing PRs](#landing-prs)
 
 ## Local setup
 
