@@ -19,7 +19,7 @@ Once you pick the project you're interested in, make sure to learn about the pro
 The mentors are here to help you. We expect you to have a lot of questions along the way and we're happy to answer them.
 
 ## Contribute
-You will need to make at least one contribution to a Creative Commons project so that we can see a sample of your work. This is important for our evaluation of your application. For more details, see the Contributing section, below.
+You will need to make at least one contribution to a Beautiful Patterns project so that we can see a sample of your work. This is important for our evaluation of your application. For more details, see the Contributing section, below.
 
 ## Draft Application
 The final step is to create a draft application and share it with your chosen project's mentors for feedback. Do not wait until the last minute to do this. You should ideally get at least two rounds of feedback from the mentors before you submit your final application. For more details, see the Application section, below.
@@ -48,7 +48,7 @@ We suggest reading some articles on writing good proposals.
 You must use our internship project template to create your application. Please make sure that your mentors have comment permissions before you share your document with them.
 
 ## Contacting Mentors
-All the CC mentors are on Slack. Please use public channels on Slack as the primary method of communication. Public channels are better than direct messages because it allows any available mentor (or even another applicant) to answer your questions and interact with you. It also allows other applicants who have the same questions to benefit from the answers the mentor is giving you.
+All the Beautiful Patterns mentors are on Slack. Please use public channels on Slack as the primary method of communication. Public channels are better than direct messages because it allows any available mentor (or even another applicant) to answer your questions and interact with you. It also allows other applicants who have the same questions to benefit from the answers the mentor is giving you.
 
 Please ask mentors specific questions. We don't know how to help you get started unless we know what you have questions about. People come from a variety of experiences and backgrounds and the things you may be confused about may be totally different than the things that someone else has questions about. Please give us as much information as possible, the more you tell us, the better we can help you.
 
@@ -66,7 +66,7 @@ Here are a few things we consider when selecting interns:
 * Communication skills and initiative: These are essential to completing a successful project. Things we look for (among others): asking specific and detailed questions, following up on conversations, making sure to read available resources before asking questions, being patient and responding to critical feedback well.
 
 ## Number of Accepted Interns
-Please, note that any internship program has a limited amount of projects that are able be funded. Therefore, we will probably not be able to select an intern for every project idea that we have listed. CC will be allocated a limited number of project slots by the program and we can only accept the number of interns that we have slots for.
+Please, note that any internship program has a limited amount of projects. Therefore, we will probably not be able to select an intern for every project idea that we have listed. We can only accept the number of interns that we have slots for.
 
 ## Selection Accouncements
 If you have been selected, congratulations! Here's what we expect you to do before the internship officially starts:
@@ -81,7 +81,7 @@ INTERNSHIP PERIOD
 ## Internship Period
 Once the internship starts, here's what we expect of you:
 
-* Work 30-40 hours per week (or agree on a different plan with your mentor ahead of time).
+* Work 6-10 hours per week (or agree on a different plan with your mentor ahead of time).
 * Push code to GitHub frequently. Commit early and often.
 * Be available on Slack whenever you are working and post at least once a (work)day to talk about what you're working on that day.
 * Write a short update on your work every two weeks and post it to the BP technical blog (instructions are here). To get a sense of how these posts are written and how the projects evolved, you can read entries done by previous interns.
