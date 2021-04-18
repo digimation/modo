@@ -1,7 +1,7 @@
 # Beautiful Patterns Governance
 
 ## Mission
-The mission of the Beautiful Patterns organization is to transform teaching and learning around the globe through the innovative use of digital technologies.
+The mission of Beautiful Patterns is to enable the financial independence of womxn through jobs in computation. Beautiful Patterns seeks to transform teaching and learning around the globe through the accessible and innovative use of digital technologies building upon a womxn-teaching-womxn model. Beautiful Patterns aims to guide womxn from their first steps in computation all the way to their first entry level position.
 
 ## Benevolent Dictator Governance Document
 ### Overview
