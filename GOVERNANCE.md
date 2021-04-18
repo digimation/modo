@@ -34,6 +34,7 @@ Some contributors will already be engaging with the project as users, but will a
 * outreach and communication
 * programming
 * assisting with project infrastructure
+* creating open source content 
 * writing documentation
 * adding features
 
