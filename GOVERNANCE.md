@@ -29,15 +29,18 @@ Some contributors will already be engaging with the project as users, but will a
 * supporting new users (current users often provide the most effective new user support)
 * reporting bugs
 * identifying requirements
+* fixing bugs
 * supplying graphics and web design
-* marketing
+* outreach and communication
 * programming
 * assisting with project infrastructure
 * writing documentation
-* fixing bugs
 * adding features
 
 As contributors gain experience and familiarity with the project, they may find that the project lead starts relying on them more and more. When this begins to happen, they gradually adopt the role of committer, as described above.
+
+#### Beautiful Patterns Open Source Internships
+Beautiful Patterns will offer Open Source Internships to well qualified applicants. See the internships.md document for details.
 
 #### Users
 Users are community members who have a need for the project. They are the most important members of the community: without them, the project would have no purpose. Anyone can be a user; there are no specific requirements.
@@ -47,7 +50,6 @@ Users should be encouraged to participate in the life of the project and the com
 * evangelising about the project
 * informing developers of project strengths and weaknesses from a new user’s perspective
 * providing moral support (a ‘thank you’ goes a long way)
-* providing financial support
 
 Users who continue to engage with the project and its community will often find themselves becoming more and more involved. Such users may then go on to become contributors, as described above.
 
@@ -56,10 +58,9 @@ Beautiful Patterns will use a broad definition of roles to encourage more forms 
 
 Leadership Roles:
 * Open Source Director of Development
-* Open Source Director of Production
-* Open Source Director of Marketing
-* Open Source Director of Human Resources
-* Open Source Director of Internships
+* Open Source Director of Production and Delivery
+* Open Source Director of Community Outreach
+* Open Source Director of Community Building
 
 #### Support
 
@@ -89,6 +90,3 @@ Unless stated different in the project, the code for of conduct for Beautiful Pa
 https://www.contributor-covenant.org/version/2/0/code_of_conduct/
 
 Code of conduct is written into a CODE_OF_CONDUCT.md file.
-
-## Beautiful Patterns Internships
-Beautiful Patterns will offer Open Source Internships to well qualified applicants.
