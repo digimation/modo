@@ -76,12 +76,58 @@ The developer mailing list is the most appropriate place for a contributor to as
 #### Decision-Making Process
 The benevolent dictatorship model does not need a formal conflict resolution process, since the project lead’s word is final. If the community chooses to question the wisdom of the actions of a committer, the project lead can review their decisions by checking the email archives, and either uphold or reverse them.
 
-## Leadership Meetings
-Leadership teams will create a designated channel (like on IRC) or meet regularly to discuss the project (Google Hangout or Zoom). You can even make those meetings public so other people can listen. The leadership will also host office hours once a month.
+## Contributions
+Beautiful Patterns welcomes contributions from anyone. The mechanism to propose a contribution is a GitHub pull request. Collaborators review and merge (land) pull requests.
 
-Once Beautiful Patterns establishes leadership roles, and roles in general,  it will document how people can attain them. It will establish a clear process for how someone can become a maintainer or join a subcommittee, and write it into the GOVERNANCE.md document.
+Pull request from non-members must be approved by a director before the pull request can land. One director approval is enough if the pull request has been open for more than 7 days. Approving a pull request indicates that the director accepts responsibility for the change. 
 
-## Contributing
+## Inactive Members
+Directors can remove inactive Collaborators or provide them with Emeritus status. Emeriti may request that the TSC restore them to active status.
+
+## Meetings
+The Beautiful Patterns leadership meets in a voice conference call bimonthly. Each year, the leadership elects a chair to run the meetings. The meetings are broadcasts for member viewing on YouTube or a similar service.
+
+The meeting agenda includes issues that are at an impasse. 
+
+Any community member can create a GitHub issue asking that the leadership review something. If consensus-seeking fails for an issue, the issue will be resolved by the BDFL.
+
+Before each meeting, the meeting chair will share the agenda with members of the leadership. Leadership members can also add items to the agenda at the beginning of each meeting. The meeting chair and the leadership cannot veto or remove items.
+
+The leadership may invite people to take part in a non-voting capacity.
+
+During the meeting, the chair ensures that someone takes minutes. After the meeting, the chair ensures that someone opens a pull request with the minutes.
+
+The meeting seeks to resolve as many issues as possible outside meetings using the issue tracker. The process in the issue tracker is:
+ * A member opens an issue explaining the proposal/issue
+ * The proposal passes if, after 72 hours, there are two or more director approvals and no opposition.
+ * If there is an extended impasse, a member may make a motion for a vote.
+
+## Nominations
+Existing Collaborators can nominate someone to become a Collaborator. Nominees should have significant and valuable contributions across Beautiful Patterns organization.
+
+To nominate a new Collaborator, open an issue in the repository. Provide a summary of the nominee's contributions. For example:
+
+ * Commits in the repository
+ * Pull requests and issues opened
+ * Comments on pull requests and issues
+ * Reviews on pull requests
+ * Help provided to end-users and novice contributors
+ * Participation in other projects, teams, and working groups
+ * Other participation in the wider community
+
+\* Submit links for all 
+
+The nomination passes if no director oppose it after one week. Otherwise, the nomination fails.
+
+There are steps a nominator can take in advance to make a nomination as frictionless as possible. To request feedback from other directors in private, use the directors discussion page (which only directors may view). A nominator may also work with the nominee to improve their contribution profile.
+
+Directors might overlook someone with valuable contributions. In that case, the Nominee may lobby an issue or contact a directors to request a nomination.
+
+## Onboarding
+After the nomination passes, a director member onboards the new Collaborator. See the onboarding guide for details of the onboarding process.
+
+
+## Contributing Guide
 Beautiful Patterns has published a document to help people contribute to the project. The document explains what types of contributions are needed and how the process works. While not every project will have a CONTRIBUTING.md file, its presence will signal that it's welcoming contributions.
 
 ## Code of Conduct
