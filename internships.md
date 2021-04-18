@@ -77,7 +77,6 @@ If you have been selected, congratulations! Here's what we expect you to do befo
 * Familiarize yourself with the development process at Beautiful Patterns (pull requests, code review).
 * Introduce yourself to the members of BP's engineering team.
 
-INTERNSHIP PERIOD
 ## Internship Period
 Once the internship starts, here's what we expect of you:
 
