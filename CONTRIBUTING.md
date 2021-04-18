@@ -17,9 +17,11 @@ We've put together the following guidelines to help you figure out where you can
 ## Types of contributions we're looking for
 
 There are many ways you can directly contribute to the guides (in descending order of need):
-
+ 
 * Fix editorial inconsistencies or inaccuracies
 * [Translate guides into other languages](translations.md)
+* Address issues on open source course design
+* Address issues on open source video content
 
 Interested in making a contribution? Read on!
 
@@ -37,6 +39,8 @@ Before we get started, here are a few things we expect from you (and that you sh
 If you'd like to contribute, start by searching through the issues and pull requests to see whether someone else has raised a similar idea or question.
 
 If you don't see your idea listed, and you think it fits into the goals of this guide, open a pull request.
+
+Consider crafting a proposal about your idea with our mentors and apply to be an [open source intern](internship.md).
 
 ## Style guide
 
