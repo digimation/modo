@@ -9,7 +9,7 @@ Your first step should be to understand Beautiful Pattern and what we do. We're 
 If you have a question about how we work, our programs, or anything like that, please don't hesitate to ask!
 
 ## Join the Community
-Join the #bp-dev-internships channel on Slack or the BP Developers mailing list as early as possible to introduce yourself and get feedback on your ideas. All our mentors will be on Slack and respond to emails on the mailing list and it is better to post there rather than contacting them individually. Feel free to ask questions!
+Join our forum (https://forum.beautifulpatterns.org) as early as possible to introduce yourself and get feedback on your ideas. Our mentors will respond to threads on our forum and it is better to post there rather than contacting them individually. Feel free to ask questions!
 
 ## Pick a Project
 Your next step should be to pick a particular project that you're interested in working on. 
@@ -48,7 +48,7 @@ We suggest reading some articles on writing good proposals.
 You must use our internship project template to create your application. Please make sure that your mentors have comment permissions before you share your document with them.
 
 ## Contacting Mentors
-All the Beautiful Patterns mentors are on Slack. Please use public channels on Slack as the primary method of communication. Public channels are better than direct messages because it allows any available mentor (or even another applicant) to answer your questions and interact with you. It also allows other applicants who have the same questions to benefit from the answers the mentor is giving you.
+All the Beautiful Patterns mentors monitor our forum (https://forum.beautifulpatterns.org). Please create public threads on the forum as the primary method of communication. Public threads are better than direct messages because it allows any available mentor (or even another applicant) to answer your questions and interact with you. It also allows other applicants who have the same questions to benefit from the answers the mentor is giving you.
 
 Please ask mentors specific questions. We don't know how to help you get started unless we know what you have questions about. People come from a variety of experiences and backgrounds and the things you may be confused about may be totally different than the things that someone else has questions about. Please give us as much information as possible, the more you tell us, the better we can help you.
 
