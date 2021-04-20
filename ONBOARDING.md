@@ -36,12 +36,8 @@ onboarding session.
   * Watching the main repo will flood your inbox (several hundred notifications
     per month), so be prepared
 
-The project has two venues for real-time discussion:
-* Slack
-* `#beautifulpatterns` on [webchat.freenode.net](https://webchat.freenode.net/) is a
-  great place to interact with the TSC and other Collaborators
-  * If there are any questions after the session, a good place to ask is
-    there!
+The project has one venues for real-time discussion:
+* forum (https://forum.beautifulpatterns.org)
 
 ## Project goals & values
 
